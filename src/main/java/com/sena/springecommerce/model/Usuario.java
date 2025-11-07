@@ -1,3 +1,4 @@
+
 package com.sena.springecommerce.model;
 
 import java.util.List;
